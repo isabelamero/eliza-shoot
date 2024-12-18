@@ -1,6 +1,6 @@
 # ElizaShoot
 
-Este é um projeto estático para o site de uma fotógrafa utilizando Bootstrap.
+Este é um projeto estático para o site de uma fotógrafa utilizando HTML, CSS, Bootstrap.
 
 ## Estrutura de Pastas
 
@@ -13,5 +13,5 @@ Este é um projeto estático para o site de uma fotógrafa utilizando Bootstrap.
 
 ## Como Executar
 
-1. Clone este repositório: `git clone https://github.com/usuario/eliza-shoot.git`
+1. Clone este repositório: `git clone https://github.com/isabelamero/eliza-shoot.git`
 2. Abra o arquivo `index.html` no navegador.
